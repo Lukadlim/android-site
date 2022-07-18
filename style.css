@@ -92,6 +92,10 @@ main > picture > img {
     margin: 0px auto;
 }
 
+main img.img-pq {
+    width: 100%;
+}
+
 main > div#video {
     background: rgb(0, 56, 0); 
     padding: 1px 20px;
